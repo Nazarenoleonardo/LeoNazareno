@@ -111,8 +111,8 @@ width:30%;
 <div id="wrapper"  style="border:5px solid red; position:relative;">
 <div id="main" >
       <div class="navbar">
-        <a href="index.php">EDUCAYSOFT</a>
-        <a href="eys-capacitacion.php">Capacitación</a>
+        <a href="index.php">Inicio</a>
+        <a href="eys-Estudios.php">Estudios</a>
         <a href="eys-asesoria-tecnica.php">Asesoria Tecnica</a>
         <a href="eys-investigacion.php">Investigación</a>
         <a href="eys-desarrollo-web.php">Desarrollo Web</a>
